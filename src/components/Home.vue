@@ -5,7 +5,7 @@
         <span><i class=""></i> vanessasantillana59@gmail.com</span>
       </div>
       <div class="item">
-        <span><i class=""></i> 918 527 596</span>
+        <span><i class=""></i> ----</span>
       </div>
     </div>
   </div>
